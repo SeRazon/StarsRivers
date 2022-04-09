@@ -10,7 +10,7 @@
 - **Twitter** : starsriver779
 - **E-mail** : weizixuan110@foxmail.com
 
-### 🏠 Blog : [StatsRiver's Blog](https://starsriver.uotan.cn)
+### 🏠 Blog : [StarsRiver's Blog](https://starsriver.uotan.cn)
 
 ### 📖 Inspiration : jsun969
 <img  src="https://github-readme-stats.vercel.app/api?username=StarsRivers&show_icons=true&theme=blue" />
