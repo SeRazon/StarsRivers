@@ -5,7 +5,7 @@
 ### 📫 Reach Me
 
 - **QQ** : 2161252115
-- **WeChat** : CandySR21
+- **WeChat** : CNStarsRiver
 - **Discord** : StarsRiver#2946
 - **Twitter** : starsriver779
 - **E-mail** : weizixuan110@foxmail.com
