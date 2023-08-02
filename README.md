@@ -2,7 +2,7 @@
 
 > A junior developer from **GanZhou, China**.
 
-### 📫 Reach Me
+### 📫 Contact Me
 
 - **QQ** : 2161252115
 - **WeChat** : CNStarsRiver
