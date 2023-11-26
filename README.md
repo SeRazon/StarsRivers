@@ -13,5 +13,5 @@
 ### 🏠 Blog : [StarsRiver's Blog](https://starsriver.uotan.cn)
 
 ### 📖 Inspiration : jsun969
-<img  src="https://github-readme-stats.vercel.app/api?username=StarsRivers&show_icons=true&theme=blue" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsRiver&layout=compact" />
+<img  src="https://github-readme-stats.vercel.app/api?username=StarsRivers&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarsRiver&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
