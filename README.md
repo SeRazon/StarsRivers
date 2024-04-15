@@ -1,5 +1,5 @@
-## Nice to meet you, I am `StarsRivers` 🥳
-
+## Nice to meet you, I am `SeRazon` 🥳
+### You can call me `星鸿` in Chinese.
 > A junior developer from **GanZhou, China**.
 
 ### 📫 Contact Me
@@ -10,7 +10,7 @@
 - **Twitter** : starsriver779
 - **E-mail** : weizixuan110@foxmail.com
 
-### 🏠 Blog : [StarsRiver's Blog](https://starsriver.uotan.cn)
+### 🏠 Blog : [SeRazon's Blog](https://blog.xhsr.org.cn)
 
 ### 📖 Inspiration : jsun969
 <img  src="https://github-readme-stats.vercel.app/api?username=StarsRivers&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
