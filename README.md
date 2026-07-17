@@ -11,8 +11,8 @@
 
 ### 🛠️ My Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">
+<p id="skills" align="left">
+  <a href="#skills">
     <img src="https://skillicons.dev/icons?i=cpp,c,py,java,mysql,vue,html,css,cloudflare,nginx,git,github,vscode,idea" />
   </a>
 </p>
