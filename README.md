@@ -4,9 +4,9 @@
 
 ### 📫 Contact Me
 
-- **QQ** : [2161252115](https://res.abeim.cn/api/qq/?qq=2161252115)
+- **QQ** : [2161252115](https://qm.qq.com/q/5jMC3x7gxq)
 - **Discord** : SeRazon#2946
-- **Twitter** : starsriver779
+- **Twitter** : [星鸿_SeRazon](https://x.com/CNserazon)
 - **E-mail** : serazon@qq.com
 
 ### 📑My Image
