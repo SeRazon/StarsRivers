@@ -25,4 +25,5 @@
 <!--[]https://file.xhsr.org.cn/%E6%97%A0%E6%A0%87%E9%A2%98230_20250214180759_1767383333724.png)-->
 <div align="center">
   <img src="https://file.xhsr.org.cn/%E6%97%A0%E6%A0%87%E9%A2%98230_20250214180759_1767383333724.png" width="250">
+  <img src="https://blog.xhsr.org.cn/wp-content/uploads/2026/01/Image_1785515878667_452.jpg" width="250">
 </div>
